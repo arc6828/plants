@@ -11,7 +11,7 @@
 10,กระพี้จั่น,Millettia brandisiana Kurz,FABACEAE
 11,กันเกรา,Fagraea fragrans Roxb.,GENTIANACEAE
 12,กร่าง,Ficus altissima Blume,MORACEAE
-13,กล้วย,Musa sp.,MUSACEAE
+13,กล้วย,Musa acuminata Colla,MUSACEAE
 14,กล้วยพัด,Ravenala madagascariensis Sonn.,STRELITZIACEAE
 15,การะเกด,Pandanus tectorius Parkinson ex Du Roi,PANDANACEAE
 16,การะเกดหนู,Pandanus pygmaeus Thouars,PANDANACEAE
@@ -23,7 +23,7 @@
 22,โกสน,Codiaeum variegatum (L.) Rumph. ex A. Juss.,EUPHORBIACEAE
 23,ข่อย,Streblus asper Lour.,MORACEAE
 24,ขี้เหล็ก,Senna siamea (Lam.) H. S. Irwin & Barneby,FABACEAE
-25,เข็ม,Ixora spp.,RUBIACEAE
+25,เข็ม,Ixora coccinea L.,RUBIACEAE
 26,คนทีสอ,Vitex trifolia L. subsp. trifolia,LAMIACEAE
 27,คนทีเขมา,Vitex negundo L.,LAMIACEAE
 28,คัดเค้า,Oxyceros horridus Lour.,RUBIACEAE
@@ -40,7 +40,7 @@
 39,จามจุรี,Albizia saman (Jacq.) Merr.,FABACEAE
 40,ชงโค,Bauhinia purpurea L.,FABACEAE
 41,ชบา,Hibiscus rosa-sinensis L.,MALVACEAE
-42,ชมพู่,Syzygium sp.,MYRTACEAE
+42,ชมพู่,Syzygium samarangense (Blume) Merr. & L.M.Perry,MYRTACEAE
 43,ชะอม,Senegalia pennata (L.) Willd. subsp. insuavis (Lace) I. C. Nielsen,FABACEAE
 44,ชมพูพันธุ์ทิพย์,Tabebuia rosea (Bertol.) Bertero ex A. DC.,BIGNONIACEAE
 45,ชมพู่ม่าเหมี่ยว,Syzygium malaccense (L.) Merr. & L. M. Perry,MYRTACEAE
@@ -53,7 +53,7 @@
 52,ต้อยติ่ง,Ruellia tuberosa L.,ACANTHACEAE
 53,ตะโกนา,Diospyros rhodocalyx Kurz,EBENACEAE
 54,ตะขบฝรั่ง,Muntingia calabura L.,MUNTINGIACEAE
-55,ตะขบป่า,Flacourtia indica indica (Burm. f.) Merr.,SALICACEAE
+55,ตะขบป่า,Flacourtia indica (Burm. f.) Merr.,SALICACEAE
 56,ตะเคียนทอง,Hopea odorata Roxb.,DIPTEROCARPACEAE
 57,ตะแบก,Lagerstroemia floribunda Jack var. cuspidata C. B. Clarke,LYTHRACEAE
 58,ตะลิงปลิง,Averrhoa bilimbi L.,OXALIDACEAE
@@ -97,13 +97,13 @@
 96,ผักหวานบ้าน,Breynia androgyna (L.) Chakrab. & N.P. Balakr.,PHYLLANTHACEAE
 97,ฝ้าย,Gossypium herbaceum L.,MALVACEAE
 98,ไผ่ฟิลิปปินส์,Dracaena surculosa Lindl.,ASPARAGACEAE
-99,ไผ่,Bambusa sp.,POACEAE
-100,ไผ่น้ำเต้า,Bambusa vulgaris‘Wamin’,POACEAE
+99,ไผ่,Bambusa vulgaris Schrad.,POACEAE
+100,ไผ่น้ำเต้า,Bambusa vulgaris Schrad.,POACEAE
 101,พยับหมอก,Plumbago auriculata Lam.,PLUMBAGINACEAE
 102,พลับพลึงตีนเป็ด,Hymenocallis littoralis (Jacq.) Salisb.,AMARYLLIDACEAE
 103,พวงทองต้น,Galphimia gracilis Bartl.,MALPIGHIACEAE
 104,พะยูง,Dalbergia cochinchinensis Pierre,FABACEAE
-105,พะยอม,Shorea roxbughii G.Don,DIPTEROCARPACEAE
+105,พะยอม,Shorea roxburghii G.Don,DIPTEROCARPACEAE
 106,พิกุล,Mimusops elengi L.,SAPOTACEAE
 107,พิลังกาสา,Ardisia ionantha K. Larsen & C. M. Hu,PRIMULACEAE
 108,พุดจีบ,Tabernaemontana divaricata (L.) R. Br.ex Roem. & Schult.,APOCYNACEAE
@@ -117,13 +117,13 @@
 116,เพกา,Oroxylum indicum (L.) Benth. ex Kurz,BIGNONIACEAE
 117,โพขี้นก,Ficus rumphii Blume,MORACEAE
 118,โพศรีมหาโพธิ,Ficus religiosa L.,MORACEAE
-119,เฟื่องฟ้า,Bougainvillea spp.,NYCTAGINACEAE
+119,เฟื่องฟ้า,Bougainvillea spectabilis Willd.,NYCTAGINACEAE
 120,มะกอกน้ำ,Elaeocarpus hygrophilus Kurz,ELAEOCARPACEAE
 121,มะกรูด,Citrus hystrix DC.,RUTACEAE
 122,มะขาม,Tamarindus indica L.,FABACEAE
 123,มะขามเทศ,Pithecellobium dulce (Roxb.) Benth.,FABACEAE
 124,มะขวิด,Limonia acidissima L.,RUTACEAE
-125,มะนาว,Citrus ×aurantifolia (Christm.) Swingle,RUTACEAE
+125,มะนาว,Citrus aurantiifolia (Christm.) Swingle,RUTACEAE
 126,มะพร้าว,Cocos nucifera L.,ARECACEAE
 127,มะเฟือง,Averrhoa carambola L.,OXALIDACEAE
 128,มะดัน,Garcinia schomburgkiana Pierre,CLUSIACEAE
@@ -145,7 +145,7 @@
 144,ยอ,Morinda citrifolia L.,RUBIACEAE
 145,ยางนา,Dipterocarpus alatus Roxb. ex G. Don,DIPTEROCARPACEAE
 146,ยี่โถ,Nerium oleander L.,APOCYNACEAE
-147,ยูคาลิปตัส,Eucalyptus sp.,MYRTACEAE
+147,ยูคาลิปตัส,Eucalyptus camaldulensis Dehnh.,MYRTACEAE
 148,รัก,Calotropis gigantea (L.) W. T. Aiton,APOCYNACEAE
 149,ราชพฤกษ์,Cassia fistula L.,FABACEAE
 150,ราชาวดี,Buddleja paniculata Wall.,SCROPHULARIACEAE
@@ -154,12 +154,12 @@
 153,ละมุดเขมร,Pouteria campechiana (Kunth) Baehni,SAPOTACEAE
 154,ลั่นทมแดง,Plumeria rubra L.,APOCYNACEAE
 155,ลิ้นกระบือ,Excoecaria cochinchinensis Lour. var. cochinchinensis,EUPHORBIACEAE
-156,ลำไย,Dimocarpus longan Lour. var. longan,SAPINDACEAE
+156,ลำไย,Dimocarpus longan Lour.,SAPINDACEAE
 157,เล็บมือนาง,Combretum indicum (L.) De Filipps,COMBRETACEAE
 158,ว่านธรณีสาร,Phyllanthus pulcher Wall. ex Müll. Arg.,PHYLLANTHACEAE
 159,ว่านเพชรหึง,Grammatophyllum speciosum Blume,ORCHIDACEAE
 160,สนประดิพัทธ์,Casuarina junghuhniana Miq.,CASUARINACEAE
-161,สนมังกร,Juniperus Chinensis L.,CUPPRESSACEAE
+161,สนมังกร,Juniperus chinensis L.,CUPPRESSACEAE
 162,สบู่ดำ,Jatropha curcas L.,EUPHORBIACEAE
 163,ส้มจี๊ด,Citrus japonica Thunb.,RUTACEAE
 164,ส้มโอ,Citrus maxima (Burm.) Merr.,RUTACEAE
@@ -176,7 +176,7 @@
 175,หนามแดง,Carissa carandas L.,APOCYNACEAE
 176,หม่อน,Morus alba L.,MORACEAE
 177,หว้า,Syzygium cumini (L.) Skeels,MYRTACEAE
-178,หมากเขียว,Ptychosperma Ptychosperma (R. Br.) Blume,ARECACEAE
+178,หมากเขียว,Ptychosperma macarthurii (H.Wendl. ex T.Moore) H.Wendl. ex Dykes,ARECACEAE
 179,หมากนวล,Adonidia merrillii (Becc.) Becc.,ARECACEAE
 180,หมากเหลือง,Dypsis lutescens (H. Wendl.) Beentje & J. Dransf.,ARECACEAE
 181,หางนกยูงฝรั่ง,Delonix regia (Bojer ex Hook.) Raf.,FABACEAE
@@ -186,7 +186,7 @@
 185,เหรียง,Parkia timoriana (DC.) Merr.,FABACEAE
 186,เหลืองปรีดียาธร,Roseodendron donnell-smithii (Rose) Miranda,BIGNONIACEAE
 187,อรพิม,Lysiphyllum winitii (Craib) de Wit,FABACEAE
-188,อากาเว่,Agave spp.,ASPARAGACEAE
+188,อากาเว่,Agave americana L.,ASPARAGACEAE
 189,อินทนิล,Lagerstroemia speciosa (L.) Pers.,LYTHRACEAE
 190,อินทผลัม,Phoenix dactylifera L.,ARECACEAE
 191,อโศกเซนคาเบรียล,Monoon longifolium (Sonn.) B. Xue & R. M. K. Saunders,ANNONACEAE

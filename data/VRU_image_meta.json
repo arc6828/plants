@@ -1,0 +1,1148 @@
+[
+    {
+        "common_name_th":"กรรณิกา",
+        "scientific_name":"Nyctanthes arbor-tristis L.",
+        "family":"OLEACEAE",
+        "count":466
+    },
+    {
+        "common_name_th":"กะตังใบ",
+        "scientific_name":"Leea indica (Burm. f.) Merr.",
+        "family":"VITACEAE",
+        "count":288
+    },
+    {
+        "common_name_th":"กระถิน",
+        "scientific_name":"Leucaena leucocephala (Lam.) de Wit",
+        "family":"FABACEAE",
+        "count":18971
+    },
+    {
+        "common_name_th":"กระถินณรงค์",
+        "scientific_name":"Acacia auriculiformis A. Cunn. ex Benth.",
+        "family":"FABACEAE",
+        "count":2510
+    },
+    {
+        "common_name_th":"กระดังงาจีน",
+        "scientific_name":"Artabotrys hexapetalus (L. f.) Bhandari",
+        "family":"ANNONACEAE",
+        "count":84
+    },
+    {
+        "common_name_th":"กระดังงาสงขลา",
+        "scientific_name":"Cananga odorata (Lam.) Hook. f. & Thomson var. fruticosa (Craib) J. Sinclair",
+        "family":"ANNONACEAE",
+        "count":9
+    },
+    {
+        "common_name_th":"กระท้อน",
+        "scientific_name":"Sandoricum koetjape (Burm. f.) Merr.",
+        "family":"MELIACEAE",
+        "count":91
+    },
+    {
+        "common_name_th":"กระทิง",
+        "scientific_name":"Calophyllum inophyllum L.",
+        "family":"CALOPHYLLACEAE",
+        "count":2008
+    },
+    {
+        "common_name_th":"กระทุ่มนา",
+        "scientific_name":"Mitragyna diversifolia (Wall. ex G. Don) Havil.",
+        "family":"RUBIACEAE",
+        "count":2
+    },
+    {
+        "common_name_th":"กระพี้จั่น",
+        "scientific_name":"Millettia brandisiana Kurz",
+        "family":"FABACEAE",
+        "count":6
+    },
+    {
+        "common_name_th":"กันเกรา",
+        "scientific_name":"Fagraea fragrans Roxb.",
+        "family":"GENTIANACEAE",
+        "count":145
+    },
+    {
+        "common_name_th":"กร่าง",
+        "scientific_name":"Ficus altissima Blume",
+        "family":"MORACEAE",
+        "count":193
+    },
+    {
+        "common_name_th":"กล้วย",
+        "scientific_name":"Musa acuminata Colla",
+        "family":"MUSACEAE",
+        "count":2324
+    },
+    {
+        "common_name_th":"กล้วยพัด",
+        "scientific_name":"Ravenala madagascariensis Sonn.",
+        "family":"STRELITZIACEAE",
+        "count":465
+    },
+    {
+        "common_name_th":"การะเกด",
+        "scientific_name":"Pandanus tectorius Parkinson ex Du Roi",
+        "family":"PANDANACEAE",
+        "count":4878
+    },
+    {
+        "common_name_th":"การะเกดหนู",
+        "scientific_name":"Pandanus pygmaeus Thouars",
+        "family":"PANDANACEAE",
+        "count":11
+    },
+    {
+        "common_name_th":"แก้ว",
+        "scientific_name":"Murraya paniculata (L.) Jack",
+        "family":"RUTACEAE",
+        "count":6120
+    },
+    {
+        "common_name_th":"แก้วเจ้าจอม",
+        "scientific_name":"Guaiacum officinale L.",
+        "family":"ZYGOPHYLLACEAE",
+        "count":709
+    },
+    {
+        "common_name_th":"กุหลาบมอญ",
+        "scientific_name":"Rosa ×damascena Herrm.",
+        "family":"ROSACEAE",
+        "count":38
+    },
+    {
+        "common_name_th":"โกงกางเขา",
+        "scientific_name":"Fagraea ceilanica Thunb.",
+        "family":"GENTIANACEAE",
+        "count":97
+    },
+    {
+        "common_name_th":"ขนุน",
+        "scientific_name":"Artocarpus heterophyllus Lam.",
+        "family":"MORACEAE",
+        "count":3251
+    },
+    {
+        "common_name_th":"โกสน",
+        "scientific_name":"Codiaeum variegatum (L.) Rumph. ex A. Juss.",
+        "family":"EUPHORBIACEAE",
+        "count":2722
+    },
+    {
+        "common_name_th":"ข่อย",
+        "scientific_name":"Streblus asper Lour.",
+        "family":"MORACEAE",
+        "count":168
+    },
+    {
+        "common_name_th":"ขี้เหล็ก",
+        "scientific_name":"Senna siamea (Lam.) H. S. Irwin & Barneby",
+        "family":"FABACEAE",
+        "count":933
+    },
+    {
+        "common_name_th":"เข็ม",
+        "scientific_name":"Ixora coccinea L.",
+        "family":"RUBIACEAE",
+        "count":264
+    },
+    {
+        "common_name_th":"คนทีสอ",
+        "scientific_name":"Vitex trifolia L. subsp. trifolia",
+        "family":"LAMIACEAE",
+        "count":729
+    },
+    {
+        "common_name_th":"คนทีเขมา",
+        "scientific_name":"Vitex negundo L.",
+        "family":"LAMIACEAE",
+        "count":2253
+    },
+    {
+        "common_name_th":"คัดเค้า",
+        "scientific_name":"Oxyceros horridus Lour.",
+        "family":"RUBIACEAE",
+        "count":5
+    },
+    {
+        "common_name_th":"คริสติน่า",
+        "scientific_name":"Syzygium australe (J.C.Wendl. ex Link) B.Hyland",
+        "family":"MYRTACEAE",
+        "count":602
+    },
+    {
+        "common_name_th":"แคนา",
+        "scientific_name":"Dolichandrone serrulata (Wall. ex DC.) Seem.",
+        "family":"BIGNONIACEAE",
+        "count":19
+    },
+    {
+        "common_name_th":"แคบ้าน",
+        "scientific_name":"Sesbania grandiflora (L.) Poir.",
+        "family":"FABACEAE",
+        "count":244
+    },
+    {
+        "common_name_th":"แคฝรั่ง",
+        "scientific_name":"Gliricidia sepium (Jacq.) Walp.",
+        "family":"FABACEAE",
+        "count":2481
+    },
+    {
+        "common_name_th":"แคแสด",
+        "scientific_name":"Spathodea campanulata P. Beauv.",
+        "family":"BIGNONIACEAE",
+        "count":8556
+    },
+    {
+        "common_name_th":"จั๋งญี่ปุ่น",
+        "scientific_name":"Rhapis excelsa (Thunb.) Henry",
+        "family":"ARECACEAE",
+        "count":396
+    },
+    {
+        "common_name_th":"จิกนมยาน",
+        "scientific_name":"Barringtonia macrocarpa Hassk.",
+        "family":"LECYTHIDACEAE",
+        "count":3
+    },
+    {
+        "common_name_th":"จิกสวน",
+        "scientific_name":"Barringtonia racemosa (L.) Spreng.",
+        "family":"LECYTHIDACEAE",
+        "count":1140
+    },
+    {
+        "common_name_th":"จันทน์ผา",
+        "scientific_name":"Dracaena cochinchinensis (Lour.) S. C. Chen",
+        "family":"ASPARAGACEAE",
+        "count":104
+    },
+    {
+        "common_name_th":"จำปี",
+        "scientific_name":"Magnolia ×alba (DC.) Figlar",
+        "family":"MAGNOLIACEAE",
+        "count":91
+    },
+    {
+        "common_name_th":"จามจุรี",
+        "scientific_name":"Albizia saman (Jacq.) Merr.",
+        "family":"FABACEAE",
+        "count":1751
+    },
+    {
+        "common_name_th":"ชงโค",
+        "scientific_name":"Bauhinia purpurea L.",
+        "family":"FABACEAE",
+        "count":721
+    },
+    {
+        "common_name_th":"ชบา",
+        "scientific_name":"Hibiscus rosa-sinensis L.",
+        "family":"MALVACEAE",
+        "count":1879
+    },
+    {
+        "common_name_th":"ชมพู่",
+        "scientific_name":"Syzygium samarangense (Blume) Merr. & L.M.Perry",
+        "family":"MYRTACEAE",
+        "count":586
+    },
+    {
+        "common_name_th":"ชะอม",
+        "scientific_name":"Senegalia pennata (L.) Willd. subsp. insuavis (Lace) I. C. Nielsen",
+        "family":"FABACEAE",
+        "count":1
+    },
+    {
+        "common_name_th":"ชมพูพันธุ์ทิพย์",
+        "scientific_name":"Tabebuia rosea (Bertol.) Bertero ex A. DC.",
+        "family":"BIGNONIACEAE",
+        "count":1705
+    },
+    {
+        "common_name_th":"ชมพู่ม่าเหมี่ยว",
+        "scientific_name":"Syzygium malaccense (L.) Merr. & L. M. Perry",
+        "family":"MYRTACEAE",
+        "count":1299
+    },
+    {
+        "common_name_th":"ชมนาด",
+        "scientific_name":"Vallaris glabra (L.) Kuntze",
+        "family":"APOCYNACEAE",
+        "count":11
+    },
+    {
+        "common_name_th":"ช้องนาง",
+        "scientific_name":"Thunbergia erecta (Benth.) T. Anderson",
+        "family":"ACANTHACEAE",
+        "count":2516
+    },
+    {
+        "common_name_th":"ชะมวง",
+        "scientific_name":"Garcinia cowa Roxb. ex Choisy",
+        "family":"CLUSIACEAE",
+        "count":6
+    },
+    {
+        "common_name_th":"ชาฮกเกี้ยน",
+        "scientific_name":"Ehretia microphylla Lam.",
+        "family":"BORAGINACEAE",
+        "count":1400
+    },
+    {
+        "common_name_th":"ชำมะเลียง",
+        "scientific_name":"Lepisanthes fruticosa (Roxb.) Leenh.",
+        "family":"SAPINDACEAE",
+        "count":2
+    },
+    {
+        "common_name_th":"เชอร์รี่ไทย",
+        "scientific_name":"Malpighia glabra L.",
+        "family":"MALPIGHIACEAE",
+        "count":871
+    },
+    {
+        "common_name_th":"ต้อยติ่ง",
+        "scientific_name":"Ruellia tuberosa L.",
+        "family":"ACANTHACEAE",
+        "count":2015
+    },
+    {
+        "common_name_th":"ตะโกนา",
+        "scientific_name":"Diospyros rhodocalyx Kurz",
+        "family":"EBENACEAE",
+        "count":3
+    },
+    {
+        "common_name_th":"ตะขบฝรั่ง",
+        "scientific_name":"Muntingia calabura L.",
+        "family":"MUNTINGIACEAE",
+        "count":5167
+    },
+    {
+        "common_name_th":"ตะขบป่า",
+        "scientific_name":"Flacourtia indica (Burm. f.) Merr.",
+        "family":"SALICACEAE",
+        "count":442
+    },
+    {
+        "common_name_th":"ตะเคียนทอง",
+        "scientific_name":"Hopea odorata Roxb.",
+        "family":"DIPTEROCARPACEAE",
+        "count":35
+    },
+    {
+        "common_name_th":"ตะแบก",
+        "scientific_name":"Lagerstroemia floribunda Jack var. cuspidata C. B. Clarke",
+        "family":"LYTHRACEAE",
+        "count":0
+    },
+    {
+        "common_name_th":"ตะลิงปลิง",
+        "scientific_name":"Averrhoa bilimbi L.",
+        "family":"OXALIDACEAE",
+        "count":958
+    },
+    {
+        "common_name_th":"ตาล",
+        "scientific_name":"Borassus flabellifer L.",
+        "family":"ARECACEAE",
+        "count":1250
+    },
+    {
+        "common_name_th":"ตาลฟ้า",
+        "scientific_name":"Bismarckia nobilis Hildebr. & H. Wendl.",
+        "family":"ARECACEAE",
+        "count":235
+    },
+    {
+        "common_name_th":"ตีนเป็ดน้ำ",
+        "scientific_name":"Cerbera odollam Gaertn.",
+        "family":"APOCYNACEAE",
+        "count":552
+    },
+    {
+        "common_name_th":"เตยหอม",
+        "scientific_name":"Pandanus amaryllifolius Roxb.",
+        "family":"PANDANACEAE",
+        "count":0
+    },
+    {
+        "common_name_th":"เต่าร้าง",
+        "scientific_name":"Caryota mitis Lour.",
+        "family":"ARECACEAE",
+        "count":753
+    },
+    {
+        "common_name_th":"ทับทิม",
+        "scientific_name":"Punica granatum L. var. granatum",
+        "family":"LYTHRACEAE",
+        "count":11027
+    },
+    {
+        "common_name_th":"ทองกวาว",
+        "scientific_name":"Butea monosperma (Lam.) Taub.",
+        "family":"FABACEAE",
+        "count":1786
+    },
+    {
+        "common_name_th":"ทองหลางลาย",
+        "scientific_name":"Erythrina variegata L.",
+        "family":"FABACEAE",
+        "count":454
+    },
+    {
+        "common_name_th":"ทองอุไร",
+        "scientific_name":"Tecoma stans (L.) Juss. ex Kunth",
+        "family":"BIGNONIACEAE",
+        "count":12751
+    },
+    {
+        "common_name_th":"เทียนหยด",
+        "scientific_name":"Duranta erecta L.",
+        "family":"VERBENACEAE",
+        "count":5345
+    },
+    {
+        "common_name_th":"ไทรทอง",
+        "scientific_name":"Ficus microcarpa L. f.",
+        "family":"MORACEAE",
+        "count":7029
+    },
+    {
+        "common_name_th":"ไทรย้อยใบแหลม",
+        "scientific_name":"Ficus benjamina L.",
+        "family":"MORACEAE",
+        "count":1466
+    },
+    {
+        "common_name_th":"ธรรมรักษา",
+        "scientific_name":"Heliconia psittacorum L. f.",
+        "family":"HELICONIACEAE",
+        "count":4957
+    },
+    {
+        "common_name_th":"นนทรี",
+        "scientific_name":"Peltophorum pterocarpum (DC.) Backer ex K. Heyne",
+        "family":"FABACEAE",
+        "count":1148
+    },
+    {
+        "common_name_th":"น้อยหน่า",
+        "scientific_name":"Annona squamosa L.",
+        "family":"ANNONACEAE",
+        "count":1714
+    },
+    {
+        "common_name_th":"นีออน",
+        "scientific_name":"Leucophyllum frutescens (Berland.) I. M. Johnst.",
+        "family":"SCROPHULARIACEAE",
+        "count":6830
+    },
+    {
+        "common_name_th":"บานบุรี",
+        "scientific_name":"Cascabela thevetia (L.) Lippold",
+        "family":"APOCYNACEAE",
+        "count":4562
+    },
+    {
+        "common_name_th":"บุนนาค",
+        "scientific_name":"Mesua ferrea L.",
+        "family":"CALOPHYLLACEAE",
+        "count":148
+    },
+    {
+        "common_name_th":"บุหงาส่าหรี",
+        "scientific_name":"Citharexylum spinosum L.",
+        "family":"VERBENACEAE",
+        "count":812
+    },
+    {
+        "common_name_th":"บาหยา",
+        "scientific_name":"Asystasia gangetica (L.) T. Anderson subsp. gangetica",
+        "family":"ACANTHACEAE",
+        "count":5815
+    },
+    {
+        "common_name_th":"ใบเงิน ใบทอง",
+        "scientific_name":"Graptophyllum pictum (L.) Griff.",
+        "family":"ACANTHACEAE",
+        "count":219
+    },
+    {
+        "common_name_th":"ปรงญี่ปุ่น",
+        "scientific_name":"Cycas revoluta Thunb.",
+        "family":"CYCADACEAE",
+        "count":611
+    },
+    {
+        "common_name_th":"ประยงค์",
+        "scientific_name":"Aglaia odorata Lour.",
+        "family":"MELIACEAE",
+        "count":90
+    },
+    {
+        "common_name_th":"ประดู่บ้าน",
+        "scientific_name":"Pterocarpus indicus Willd.",
+        "family":"FABACEAE",
+        "count":305
+    },
+    {
+        "common_name_th":"ปาล์มจีบ",
+        "scientific_name":"Licuala grandis H. Wendl.",
+        "family":"ARECACEAE",
+        "count":212
+    },
+    {
+        "common_name_th":"ปาล์มชวา",
+        "scientific_name":"Saribus rotundifolius (Lam.) Blume",
+        "family":"ARECACEAE",
+        "count":107
+    },
+    {
+        "common_name_th":"ประเดหวี",
+        "scientific_name":"Dracaena fragrans (L.) Ker Gawl.",
+        "family":"ASPARAGACEAE",
+        "count":1408
+    },
+    {
+        "common_name_th":"ปาล์มน้ำมัน",
+        "scientific_name":"Elaeis guineensis Jacq.",
+        "family":"ARECACEAE",
+        "count":683
+    },
+    {
+        "common_name_th":"ปาล์มพัด",
+        "scientific_name":"Pritchardia pacifica Seem. & H. Wendl.",
+        "family":"ARECACEAE",
+        "count":111
+    },
+    {
+        "common_name_th":"ปาล์มสิบสองปันนา",
+        "scientific_name":"Phoenix roebelenii O’Brien",
+        "family":"ARECACEAE",
+        "count":174
+    },
+    {
+        "common_name_th":"ปาล์มสามทาง",
+        "scientific_name":"Dypsis lutescens (H. Wendl.) Beentje & J. Dransf.",
+        "family":"ARECACEAE",
+        "count":1081
+    },
+    {
+        "common_name_th":"ปาล์มหางกระรอก",
+        "scientific_name":"Wodyetia bifurcata A. K. Irvine",
+        "family":"ARECACEAE",
+        "count":277
+    },
+    {
+        "common_name_th":"ปีบ",
+        "scientific_name":"Millingtonia hortensis L. f.",
+        "family":"BIGNONIACEAE",
+        "count":389
+    },
+    {
+        "common_name_th":"ปีปทอง",
+        "scientific_name":"Radermachera hainanensis Merr.",
+        "family":"BIGNONIACEAE",
+        "count":15
+    },
+    {
+        "common_name_th":"แปรงล้างขวด",
+        "scientific_name":"Callistemon lanceolatus (Sm.) Sweet",
+        "family":"MYRTACEAE",
+        "count":706
+    },
+    {
+        "common_name_th":"ฝรั่ง",
+        "scientific_name":"Psidium guajava L.",
+        "family":"MYRTACEAE",
+        "count":10546
+    },
+    {
+        "common_name_th":"ผักหวานบ้าน",
+        "scientific_name":"Breynia androgyna (L.) Chakrab. & N.P. Balakr.",
+        "family":"PHYLLANTHACEAE",
+        "count":494
+    },
+    {
+        "common_name_th":"ฝ้าย",
+        "scientific_name":"Gossypium herbaceum L.",
+        "family":"MALVACEAE",
+        "count":270
+    },
+    {
+        "common_name_th":"ไผ่ฟิลิปปินส์",
+        "scientific_name":"Dracaena surculosa Lindl.",
+        "family":"ASPARAGACEAE",
+        "count":124
+    },
+    {
+        "common_name_th":"ไผ่",
+        "scientific_name":"Bambusa vulgaris Schrad.",
+        "family":"POACEAE",
+        "count":106
+    },
+    {
+        "common_name_th":"ไผ่น้ำเต้า",
+        "scientific_name":"Bambusa vulgaris Schrad.",
+        "family":"POACEAE",
+        "count":106
+    },
+    {
+        "common_name_th":"พยับหมอก",
+        "scientific_name":"Plumbago auriculata Lam.",
+        "family":"PLUMBAGINACEAE",
+        "count":9974
+    },
+    {
+        "common_name_th":"พลับพลึงตีนเป็ด",
+        "scientific_name":"Hymenocallis littoralis (Jacq.) Salisb.",
+        "family":"AMARYLLIDACEAE",
+        "count":1792
+    },
+    {
+        "common_name_th":"พวงทองต้น",
+        "scientific_name":"Galphimia gracilis Bartl.",
+        "family":"MALPIGHIACEAE",
+        "count":434
+    },
+    {
+        "common_name_th":"พะยูง",
+        "scientific_name":"Dalbergia cochinchinensis Pierre",
+        "family":"FABACEAE",
+        "count":2
+    },
+    {
+        "common_name_th":"พะยอม",
+        "scientific_name":"Shorea roxburghii G.Don",
+        "family":"DIPTEROCARPACEAE",
+        "count":43
+    },
+    {
+        "common_name_th":"พิกุล",
+        "scientific_name":"Mimusops elengi L.",
+        "family":"SAPOTACEAE",
+        "count":714
+    },
+    {
+        "common_name_th":"พิลังกาสา",
+        "scientific_name":"Ardisia ionantha K. Larsen & C. M. Hu",
+        "family":"PRIMULACEAE",
+        "count":0
+    },
+    {
+        "common_name_th":"พุดจีบ",
+        "scientific_name":"Tabernaemontana divaricata (L.) R. Br.ex Roem. & Schult.",
+        "family":"APOCYNACEAE",
+        "count":1565
+    },
+    {
+        "common_name_th":"พุดซ้อน",
+        "scientific_name":"Gardenia jasminoides J. Ellis",
+        "family":"RUBIACEAE",
+        "count":2843
+    },
+    {
+        "common_name_th":"พุดน้ำบุศย์",
+        "scientific_name":"Gardenia carinata Wall. ex Roxb.",
+        "family":"RUBIACEAE",
+        "count":22
+    },
+    {
+        "common_name_th":"พุทธชาดก้านแดง",
+        "scientific_name":"Jasminum grandiflorum L.",
+        "family":"OLEACEAE",
+        "count":75
+    },
+    {
+        "common_name_th":"พุดพิชญา",
+        "scientific_name":"Wrightia antidysenterica (L.) R. Br.",
+        "family":"APOCYNACEAE",
+        "count":213
+    },
+    {
+        "common_name_th":"พุดศุภโชค (พุดซ้อน)",
+        "scientific_name":"Gardenia jasminoides J. Ellis",
+        "family":"RUBIACEAE",
+        "count":2843
+    },
+    {
+        "common_name_th":"พุดสามสี",
+        "scientific_name":"Brunfelsia uniflora (Pohl) D. Don",
+        "family":"SOLANACEAE",
+        "count":199
+    },
+    {
+        "common_name_th":"พุทธรักษา",
+        "scientific_name":"Canna indica L.",
+        "family":"CANNACEAE",
+        "count":7631
+    },
+    {
+        "common_name_th":"เพกา",
+        "scientific_name":"Oroxylum indicum (L.) Benth. ex Kurz",
+        "family":"BIGNONIACEAE",
+        "count":256
+    },
+    {
+        "common_name_th":"โพขี้นก",
+        "scientific_name":"Ficus rumphii Blume",
+        "family":"MORACEAE",
+        "count":239
+    },
+    {
+        "common_name_th":"โพศรีมหาโพธิ",
+        "scientific_name":"Ficus religiosa L.",
+        "family":"MORACEAE",
+        "count":4288
+    },
+    {
+        "common_name_th":"เฟื่องฟ้า",
+        "scientific_name":"Bougainvillea spectabilis Willd.",
+        "family":"NYCTAGINACEAE",
+        "count":323
+    },
+    {
+        "common_name_th":"มะกอกน้ำ",
+        "scientific_name":"Elaeocarpus hygrophilus Kurz",
+        "family":"ELAEOCARPACEAE",
+        "count":4
+    },
+    {
+        "common_name_th":"มะกรูด",
+        "scientific_name":"Citrus hystrix DC.",
+        "family":"RUTACEAE",
+        "count":139
+    },
+    {
+        "common_name_th":"มะขาม",
+        "scientific_name":"Tamarindus indica L.",
+        "family":"FABACEAE",
+        "count":3082
+    },
+    {
+        "common_name_th":"มะขามเทศ",
+        "scientific_name":"Pithecellobium dulce (Roxb.) Benth.",
+        "family":"FABACEAE",
+        "count":4042
+    },
+    {
+        "common_name_th":"มะขวิด",
+        "scientific_name":"Limonia acidissima L.",
+        "family":"RUTACEAE",
+        "count":136
+    },
+    {
+        "common_name_th":"มะนาว",
+        "scientific_name":"Citrus aurantiifolia (Christm.) Swingle",
+        "family":"RUTACEAE",
+        "count":139
+    },
+    {
+        "common_name_th":"มะพร้าว",
+        "scientific_name":"Cocos nucifera L.",
+        "family":"ARECACEAE",
+        "count":18928
+    },
+    {
+        "common_name_th":"มะเฟือง",
+        "scientific_name":"Averrhoa carambola L.",
+        "family":"OXALIDACEAE",
+        "count":2671
+    },
+    {
+        "common_name_th":"มะดัน",
+        "scientific_name":"Garcinia schomburgkiana Pierre",
+        "family":"CLUSIACEAE",
+        "count":4
+    },
+    {
+        "common_name_th":"มะตาด",
+        "scientific_name":"Dillenia indica L.",
+        "family":"DILLENIACEAE",
+        "count":519
+    },
+    {
+        "common_name_th":"มะตูม",
+        "scientific_name":"Aegle marmelos (L.) Corrêa ex Roxb.",
+        "family":"RUTACEAE",
+        "count":468
+    },
+    {
+        "common_name_th":"มะม่วง",
+        "scientific_name":"Mangifera indica L.",
+        "family":"ANACARDIACEAE",
+        "count":8303
+    },
+    {
+        "common_name_th":"มะม่วงหิมพานต์",
+        "scientific_name":"Anacardium occidentale L.",
+        "family":"ANACARDIACEAE",
+        "count":2487
+    },
+    {
+        "common_name_th":"มะยม",
+        "scientific_name":"Phyllanthus acidus (L.) Skeels",
+        "family":"PHYLLANTHACEAE",
+        "count":474
+    },
+    {
+        "common_name_th":"มะยงชิด",
+        "scientific_name":"Bouea oppositifolia (Roxb.) Meisn.",
+        "family":"ANACARDIACEAE",
+        "count":9
+    },
+    {
+        "common_name_th":"มะละกอ",
+        "scientific_name":"Carica papaya L.",
+        "family":"CARICACEAE",
+        "count":15171
+    },
+    {
+        "common_name_th":"มะลิลา",
+        "scientific_name":"Jasminum sambac (L.) Aiton",
+        "family":"OLEACEAE",
+        "count":427
+    },
+    {
+        "common_name_th":"มะรุม",
+        "scientific_name":"Moringa oleifera Lam.",
+        "family":"MORINGACEAE",
+        "count":3530
+    },
+    {
+        "common_name_th":"มะสัง",
+        "scientific_name":"Feroniella lucida (Scheff.) Swingle",
+        "family":"RUTACEAE",
+        "count":2
+    },
+    {
+        "common_name_th":"มะฮอกกานีใบใหญ่",
+        "scientific_name":"Swietenia macrophylla King",
+        "family":"MELIACEAE",
+        "count":965
+    },
+    {
+        "common_name_th":"มันปู",
+        "scientific_name":"Glochidion littorale Blume",
+        "family":"PHYLLANTHACEAE",
+        "count":47
+    },
+    {
+        "common_name_th":"มิกกี้เมาส์",
+        "scientific_name":"Ochna thomasiana Engl. & Gilg",
+        "family":"OCHNACEAE",
+        "count":315
+    },
+    {
+        "common_name_th":"โมกบ้าน",
+        "scientific_name":"Wrightia religiosa (Teijsm. & Binn.) Benth. ex Kurz",
+        "family":"APOCYNACEAE",
+        "count":143
+    },
+    {
+        "common_name_th":"ยางอินเดีย",
+        "scientific_name":"Ficus elastica Roxb. ex Hornem",
+        "family":"MORACEAE",
+        "count":1295
+    },
+    {
+        "common_name_th":"ยอ",
+        "scientific_name":"Morinda citrifolia L.",
+        "family":"RUBIACEAE",
+        "count":8249
+    },
+    {
+        "common_name_th":"ยางนา",
+        "scientific_name":"Dipterocarpus alatus Roxb. ex G. Don",
+        "family":"DIPTEROCARPACEAE",
+        "count":2
+    },
+    {
+        "common_name_th":"ยี่โถ",
+        "scientific_name":"Nerium oleander L.",
+        "family":"APOCYNACEAE",
+        "count":16562
+    },
+    {
+        "common_name_th":"ยูคาลิปตัส",
+        "scientific_name":"Eucalyptus camaldulensis Dehnh.",
+        "family":"MYRTACEAE",
+        "count":614
+    },
+    {
+        "common_name_th":"รัก",
+        "scientific_name":"Calotropis gigantea (L.) W. T. Aiton",
+        "family":"APOCYNACEAE",
+        "count":6390
+    },
+    {
+        "common_name_th":"ราชพฤกษ์",
+        "scientific_name":"Cassia fistula L.",
+        "family":"FABACEAE",
+        "count":4277
+    },
+    {
+        "common_name_th":"ราชาวดี",
+        "scientific_name":"Buddleja paniculata Wall.",
+        "family":"SCROPHULARIACEAE",
+        "count":4
+    },
+    {
+        "common_name_th":"รำเพย",
+        "scientific_name":"Cascabela thevetia (L.) Lippold",
+        "family":"APOCYNACEAE",
+        "count":4562
+    },
+    {
+        "common_name_th":"ละมุด",
+        "scientific_name":"Manilkara zapota (L.) P. Royen",
+        "family":"SAPOTACEAE",
+        "count":1162
+    },
+    {
+        "common_name_th":"ละมุดเขมร",
+        "scientific_name":"Pouteria campechiana (Kunth) Baehni",
+        "family":"SAPOTACEAE",
+        "count":129
+    },
+    {
+        "common_name_th":"ลั่นทมแดง",
+        "scientific_name":"Plumeria rubra L.",
+        "family":"APOCYNACEAE",
+        "count":4089
+    },
+    {
+        "common_name_th":"ลิ้นกระบือ",
+        "scientific_name":"Excoecaria cochinchinensis Lour. var. cochinchinensis",
+        "family":"EUPHORBIACEAE",
+        "count":112
+    },
+    {
+        "common_name_th":"ลำไย",
+        "scientific_name":"Dimocarpus longan Lour.",
+        "family":"SAPINDACEAE",
+        "count":3619
+    },
+    {
+        "common_name_th":"เล็บมือนาง",
+        "scientific_name":"Combretum indicum (L.) De Filipps",
+        "family":"COMBRETACEAE",
+        "count":2825
+    },
+    {
+        "common_name_th":"ว่านธรณีสาร",
+        "scientific_name":"Phyllanthus pulcher Wall. ex Müll. Arg.",
+        "family":"PHYLLANTHACEAE",
+        "count":33
+    },
+    {
+        "common_name_th":"ว่านเพชรหึง",
+        "scientific_name":"Grammatophyllum speciosum Blume",
+        "family":"ORCHIDACEAE",
+        "count":153
+    },
+    {
+        "common_name_th":"สนประดิพัทธ์",
+        "scientific_name":"Casuarina junghuhniana Miq.",
+        "family":"CASUARINACEAE",
+        "count":44
+    },
+    {
+        "common_name_th":"สนมังกร",
+        "scientific_name":"Juniperus chinensis L.",
+        "family":"CUPPRESSACEAE",
+        "count":205
+    },
+    {
+        "common_name_th":"สบู่ดำ",
+        "scientific_name":"Jatropha curcas L.",
+        "family":"EUPHORBIACEAE",
+        "count":1022
+    },
+    {
+        "common_name_th":"ส้มจี๊ด",
+        "scientific_name":"Citrus japonica Thunb.",
+        "family":"RUTACEAE",
+        "count":72
+    },
+    {
+        "common_name_th":"ส้มโอ",
+        "scientific_name":"Citrus maxima (Burm.) Merr.",
+        "family":"RUTACEAE",
+        "count":331
+    },
+    {
+        "common_name_th":"สัก",
+        "scientific_name":"Tectona grandis L. f.",
+        "family":"LAMIACEAE",
+        "count":2526
+    },
+    {
+        "common_name_th":"สะเดา",
+        "scientific_name":"Azadirachta indica A. Juss.",
+        "family":"MELIACEAE",
+        "count":7727
+    },
+    {
+        "common_name_th":"สัตบรรณ",
+        "scientific_name":"Alstonia scholaris (L.) R. Br.",
+        "family":"APOCYNACEAE",
+        "count":1156
+    },
+    {
+        "common_name_th":"สารภี",
+        "scientific_name":"Mammea siamensis (Miq.) T. Anderson",
+        "family":"CALOPHYLLACEAE",
+        "count":10
+    },
+    {
+        "common_name_th":"สาละลังกา",
+        "scientific_name":"Couroupita guianensis Aubl.",
+        "family":"LECYTHIDACEAE",
+        "count":2168
+    },
+    {
+        "common_name_th":"ปาล์มสิบสองปันนา",
+        "scientific_name":"phoenix roebelenii O'Brien",
+        "family":"ARECACEAE",
+        "count":174
+    },
+    {
+        "common_name_th":"เสลา",
+        "scientific_name":"Lagerstroemia loudonii Teijsm. & Binn.",
+        "family":"LYTHRACEAE",
+        "count":7
+    },
+    {
+        "common_name_th":"แสงจันทร์",
+        "scientific_name":"Pisonia grandis R. Br.",
+        "family":"NYCTAGINACEAE",
+        "count":9
+    },
+    {
+        "common_name_th":"ศรีตรัง",
+        "scientific_name":"Jacaranda obtusifolia Bonpl.",
+        "family":"BIGNONIACEAE",
+        "count":10
+    },
+    {
+        "common_name_th":"หนวดปลาหมึกแคระ",
+        "scientific_name":"Schefflera arboricola (Hayata) Hayata cv. Compacta",
+        "family":"ARALIACEAE",
+        "count":28
+    },
+    {
+        "common_name_th":"หนามแดง",
+        "scientific_name":"Carissa carandas L.",
+        "family":"APOCYNACEAE",
+        "count":185
+    },
+    {
+        "common_name_th":"หม่อน",
+        "scientific_name":"Morus alba L.",
+        "family":"MORACEAE",
+        "count":21633
+    },
+    {
+        "common_name_th":"หว้า",
+        "scientific_name":"Syzygium cumini (L.) Skeels",
+        "family":"MYRTACEAE",
+        "count":2446
+    },
+    {
+        "common_name_th":"หมากเขียว",
+        "scientific_name":"Ptychosperma macarthurii (H.Wendl. ex T.Moore) H.Wendl. ex Dykes",
+        "family":"ARECACEAE",
+        "count":32
+    },
+    {
+        "common_name_th":"หมากนวล",
+        "scientific_name":"Adonidia merrillii (Becc.) Becc.",
+        "family":"ARECACEAE",
+        "count":1421
+    },
+    {
+        "common_name_th":"หมากเหลือง",
+        "scientific_name":"Dypsis lutescens (H. Wendl.) Beentje & J. Dransf.",
+        "family":"ARECACEAE",
+        "count":1081
+    },
+    {
+        "common_name_th":"หางนกยูงฝรั่ง",
+        "scientific_name":"Delonix regia (Bojer ex Hook.) Raf.",
+        "family":"FABACEAE",
+        "count":7470
+    },
+    {
+        "common_name_th":"หูกระจง",
+        "scientific_name":"Terminalia ivorensis A. Chev.",
+        "family":"COMBRETACEAE",
+        "count":8
+    },
+    {
+        "common_name_th":"หูกวาง",
+        "scientific_name":"Terminalia catappa L.",
+        "family":"COMBRETACEAE",
+        "count":9673
+    },
+    {
+        "common_name_th":"หูปลาช่อน",
+        "scientific_name":"Acalypha hispida Burm. f.",
+        "family":"EUPHORBIACEAE",
+        "count":1246
+    },
+    {
+        "common_name_th":"เหรียง",
+        "scientific_name":"Parkia timoriana (DC.) Merr.",
+        "family":"FABACEAE",
+        "count":3
+    },
+    {
+        "common_name_th":"เหลืองปรีดียาธร",
+        "scientific_name":"Roseodendron donnell-smithii (Rose) Miranda",
+        "family":"BIGNONIACEAE",
+        "count":354
+    },
+    {
+        "common_name_th":"อรพิม",
+        "scientific_name":"Lysiphyllum winitii (Craib) de Wit",
+        "family":"FABACEAE",
+        "count":8
+    },
+    {
+        "common_name_th":"อากาเว่",
+        "scientific_name":"Agave americana L.",
+        "family":"ASPARAGACEAE",
+        "count":16789
+    },
+    {
+        "common_name_th":"อินทนิล",
+        "scientific_name":"Lagerstroemia speciosa (L.) Pers.",
+        "family":"LYTHRACEAE",
+        "count":1808
+    },
+    {
+        "common_name_th":"อินทผลัม",
+        "scientific_name":"Phoenix dactylifera L.",
+        "family":"ARECACEAE",
+        "count":2223
+    },
+    {
+        "common_name_th":"อโศกเซนคาเบรียล",
+        "scientific_name":"Monoon longifolium (Sonn.) B. Xue & R. M. K. Saunders",
+        "family":"ANNONACEAE",
+        "count":1246
+    },
+    {
+        "common_name_th":"เฮลิโคเนีย",
+        "scientific_name":"Heliconia rostrata Ruiz. & Pav.",
+        "family":"HELICONIACEAE",
+        "count":4567
+    }
+]

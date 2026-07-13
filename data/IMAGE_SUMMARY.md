@@ -189,185 +189,200 @@
 
 ## 📂 2. ข้อมูลรูปภาพที่ได้จากการค้นหาดิบ (Raw GBIF API Search Results)
 
-เป็นรายการลิงก์ข้อมูลภาพทั้งหมดที่สแกนหาได้ครั้งแรกจาก GBIF API (รวมทั้งสิ้น **25,284 ภาพ** จากพรรณไม้ **176 ชนิด**):
+เป็นรายการลิงก์ข้อมูลภาพทั้งหมดที่สแกนหาได้ครั้งแรกจาก GBIF API (รวมทั้งสิ้น **408,632 ภาพ** จากพรรณไม้ **191 ชนิด**):
 
 * **ตำแหน่งไฟล์ดิบ:** [VRU_image_links.json](VRU_image_links.json)
 
 | ลำดับที่ | ชื่อพืชภาษาไทย | ชื่อวิทยาศาสตร์ | จำนวนรูปภาพดิบที่พบ |
 | :---: | :--- | :--- | :---: |
-| 1 | ปาล์มสิบสองปันนา | *phoenix roebelenii O'Brien* | 300 |
-| 2 | กรรณิกา | *Nyctanthes arbor-tristis L.* | 150 |
-| 3 | กะตังใบ | *Leea indica (Burm. f.) Merr.* | 150 |
-| 4 | กระถิน | *Leucaena leucocephala (Lam.) de Wit* | 150 |
-| 5 | กระถินณรงค์ | *Acacia auriculiformis A. Cunn. ex Benth.* | 150 |
-| 6 | กระดังงาจีน | *Artabotrys hexapetalus (L. f.) Bhandari* | 150 |
-| 7 | กระท้อน | *Sandoricum koetjape (Burm. f.) Merr.* | 150 |
-| 8 | กระทิง | *Calophyllum inophyllum L.* | 150 |
-| 9 | กระทุ่มนา | *Mitragyna diversifolia (Wall. ex G. Don) Havil.* | 150 |
-| 10 | กระพี้จั่น | *Millettia brandisiana Kurz* | 150 |
-| 11 | กันเกรา | *Fagraea fragrans Roxb.* | 150 |
-| 12 | กร่าง | *Ficus altissima Blume* | 150 |
-| 13 | กล้วยพัด | *Ravenala madagascariensis Sonn.* | 150 |
-| 14 | การะเกด | *Pandanus tectorius Parkinson ex Du Roi* | 150 |
-| 15 | แก้ว | *Murraya paniculata (L.) Jack* | 150 |
-| 16 | แก้วเจ้าจอม | *Guaiacum officinale L.* | 150 |
-| 17 | โกงกางเขา | *Fagraea ceilanica Thunb.* | 150 |
-| 18 | ขนุน | *Artocarpus heterophyllus Lam.* | 150 |
-| 19 | โกสน | *Codiaeum variegatum (L.) Rumph. ex A. Juss.* | 150 |
-| 20 | ข่อย | *Streblus asper Lour.* | 150 |
-| 21 | ขี้เหล็ก | *Senna siamea (Lam.) H. S. Irwin & Barneby* | 150 |
-| 22 | คนทีสอ | *Vitex trifolia L. subsp. trifolia* | 150 |
-| 23 | คนทีเขมา | *Vitex negundo L.* | 150 |
-| 24 | คริสติน่า | *Syzygium australe (J.C.Wendl. ex Link) B.Hyland* | 150 |
-| 25 | แคบ้าน | *Sesbania grandiflora (L.) Poir.* | 150 |
-| 26 | แคฝรั่ง | *Gliricidia sepium (Jacq.) Walp.* | 150 |
-| 27 | แคแสด | *Spathodea campanulata P. Beauv.* | 150 |
-| 28 | จั๋งญี่ปุ่น | *Rhapis excelsa (Thunb.) Henry* | 150 |
-| 29 | จิกสวน | *Barringtonia racemosa (L.) Spreng.* | 150 |
-| 30 | จันทน์ผา | *Dracaena cochinchinensis (Lour.) S. C. Chen* | 150 |
-| 31 | จำปี | *Magnolia ×alba (DC.) Figlar* | 150 |
-| 32 | จามจุรี | *Albizia saman (Jacq.) Merr.* | 150 |
-| 33 | ชงโค | *Bauhinia purpurea L.* | 150 |
-| 34 | ชบา | *Hibiscus rosa-sinensis L.* | 150 |
-| 35 | ชมพูพันธุ์ทิพย์ | *Tabebuia rosea (Bertol.) Bertero ex A. DC.* | 150 |
-| 36 | ชมพู่ม่าเหมี่ยว | *Syzygium malaccense (L.) Merr. & L. M. Perry* | 150 |
-| 37 | ช้องนาง | *Thunbergia erecta (Benth.) T. Anderson* | 150 |
-| 38 | ชะมวง | *Garcinia cowa Roxb. ex Choisy* | 150 |
-| 39 | ชาฮกเกี้ยน | *Ehretia microphylla Lam.* | 150 |
-| 40 | ชำมะเลียง | *Lepisanthes fruticosa (Roxb.) Leenh.* | 150 |
-| 41 | เชอร์รี่ไทย | *Malpighia glabra L.* | 150 |
-| 42 | ต้อยติ่ง | *Ruellia tuberosa L.* | 150 |
-| 43 | ตะขบฝรั่ง | *Muntingia calabura L.* | 150 |
-| 44 | ตะเคียนทอง | *Hopea odorata Roxb.* | 150 |
-| 45 | ตะลิงปลิง | *Averrhoa bilimbi L.* | 150 |
-| 46 | ตาล | *Borassus flabellifer L.* | 150 |
-| 47 | ตาลฟ้า | *Bismarckia nobilis Hildebr. & H. Wendl.* | 150 |
-| 48 | ตีนเป็ดน้ำ | *Cerbera odollam Gaertn.* | 150 |
-| 49 | เต่าร้าง | *Caryota mitis Lour.* | 150 |
-| 50 | ทับทิม | *Punica granatum L. var. granatum* | 150 |
-| 51 | ทองกวาว | *Butea monosperma (Lam.) Taub.* | 150 |
-| 52 | ทองหลางลาย | *Erythrina variegata L.* | 150 |
-| 53 | ทองอุไร | *Tecoma stans (L.) Juss. ex Kunth* | 150 |
-| 54 | เทียนหยด | *Duranta erecta L.* | 150 |
-| 55 | ไทรทอง | *Ficus microcarpa L. f.* | 150 |
-| 56 | ไทรย้อยใบแหลม | *Ficus benjamina L.* | 150 |
-| 57 | ธรรมรักษา | *Heliconia psittacorum L. f.* | 150 |
-| 58 | นนทรี | *Peltophorum pterocarpum (DC.) Backer ex K. Heyne* | 150 |
-| 59 | น้อยหน่า | *Annona squamosa L.* | 150 |
-| 60 | นีออน | *Leucophyllum frutescens (Berland.) I. M. Johnst.* | 150 |
-| 61 | บานบุรี | *Cascabela thevetia (L.) Lippold* | 150 |
-| 62 | บุนนาค | *Mesua ferrea L.* | 150 |
-| 63 | บุหงาส่าหรี | *Citharexylum spinosum L.* | 150 |
-| 64 | บาหยา | *Asystasia gangetica (L.) T. Anderson subsp. gangetica* | 150 |
-| 65 | ใบเงิน ใบทอง | *Graptophyllum pictum (L.) Griff.* | 150 |
-| 66 | ปรงญี่ปุ่น | *Cycas revoluta Thunb.* | 150 |
-| 67 | ประดู่บ้าน | *Pterocarpus indicus Willd.* | 150 |
-| 68 | ปาล์มจีบ | *Licuala grandis H. Wendl.* | 150 |
-| 69 | ปาล์มชวา | *Saribus rotundifolius (Lam.) Blume* | 150 |
-| 70 | ประเดหวี | *Dracaena fragrans (L.) Ker Gawl.* | 150 |
-| 71 | ปาล์มน้ำมัน | *Elaeis guineensis Jacq.* | 150 |
-| 72 | ปาล์มสามทาง | *Dypsis lutescens (H. Wendl.) Beentje & J. Dransf.* | 150 |
-| 73 | ปาล์มหางกระรอก | *Wodyetia bifurcata A. K. Irvine* | 150 |
-| 74 | ปีบ | *Millingtonia hortensis L. f.* | 150 |
-| 75 | แปรงล้างขวด | *Callistemon lanceolatus (Sm.) Sweet* | 150 |
-| 76 | ฝรั่ง | *Psidium guajava L.* | 150 |
-| 77 | ผักหวานบ้าน | *Breynia androgyna (L.) Chakrab. & N.P. Balakr.* | 150 |
-| 78 | ฝ้าย | *Gossypium herbaceum L.* | 150 |
-| 79 | ไผ่ฟิลิปปินส์ | *Dracaena surculosa Lindl.* | 150 |
-| 80 | พยับหมอก | *Plumbago auriculata Lam.* | 150 |
-| 81 | พลับพลึงตีนเป็ด | *Hymenocallis littoralis (Jacq.) Salisb.* | 150 |
-| 82 | พวงทองต้น | *Galphimia gracilis Bartl.* | 150 |
-| 83 | พะยูง | *Dalbergia cochinchinensis Pierre* | 150 |
-| 84 | พิกุล | *Mimusops elengi L.* | 150 |
-| 85 | พุดจีบ | *Tabernaemontana divaricata (L.) R. Br.ex Roem. & Schult.* | 150 |
-| 86 | พุดซ้อน | *Gardenia jasminoides J. Ellis* | 150 |
-| 87 | พุดพิชญา | *Wrightia antidysenterica (L.) R. Br.* | 150 |
-| 88 | พุดศุภโชค (พุดซ้อน) | *Gardenia jasminoides J. Ellis* | 150 |
-| 89 | พุดสามสี | *Brunfelsia uniflora (Pohl) D. Don* | 150 |
-| 90 | พุทธรักษา | *Canna indica L.* | 150 |
-| 91 | เพกา | *Oroxylum indicum (L.) Benth. ex Kurz* | 150 |
-| 92 | โพขี้นก | *Ficus rumphii Blume* | 150 |
-| 93 | โพศรีมหาโพธิ | *Ficus religiosa L.* | 150 |
-| 94 | มะกรูด | *Citrus hystrix DC.* | 150 |
-| 95 | มะขาม | *Tamarindus indica L.* | 150 |
-| 96 | มะขามเทศ | *Pithecellobium dulce (Roxb.) Benth.* | 150 |
-| 97 | มะพร้าว | *Cocos nucifera L.* | 150 |
-| 98 | มะเฟือง | *Averrhoa carambola L.* | 150 |
-| 99 | มะตาด | *Dillenia indica L.* | 150 |
-| 100 | มะตูม | *Aegle marmelos (L.) Corrêa ex Roxb.* | 150 |
-| 101 | มะม่วง | *Mangifera indica L.* | 150 |
-| 102 | มะม่วงหิมพานต์ | *Anacardium occidentale L.* | 150 |
-| 103 | มะยม | *Phyllanthus acidus (L.) Skeels* | 150 |
-| 104 | มะยงชิด | *Bouea oppositifolia (Roxb.) Meisn.* | 150 |
-| 105 | มะละกอ | *Carica papaya L.* | 150 |
-| 106 | มะลิลา | *Jasminum sambac (L.) Aiton* | 150 |
-| 107 | มะรุม | *Moringa oleifera Lam.* | 150 |
-| 108 | มะฮอกกานีใบใหญ่ | *Swietenia macrophylla King* | 150 |
-| 109 | มันปู | *Glochidion littorale Blume* | 150 |
-| 110 | มิกกี้เมาส์ | *Ochna thomasiana Engl. & Gilg* | 150 |
-| 111 | โมกบ้าน | *Wrightia religiosa (Teijsm. & Binn.) Benth. ex Kurz* | 150 |
-| 112 | ยางอินเดีย | *Ficus elastica Roxb. ex Hornem* | 150 |
-| 113 | ยอ | *Morinda citrifolia L.* | 150 |
-| 114 | ยางนา | *Dipterocarpus alatus Roxb. ex G. Don* | 150 |
-| 115 | ยี่โถ | *Nerium oleander L.* | 150 |
-| 116 | รัก | *Calotropis gigantea (L.) W. T. Aiton* | 150 |
-| 117 | ราชพฤกษ์ | *Cassia fistula L.* | 150 |
-| 118 | ราชาวดี | *Buddleja paniculata Wall.* | 150 |
-| 119 | รำเพย | *Cascabela thevetia (L.) Lippold* | 150 |
-| 120 | ละมุด | *Manilkara zapota (L.) P. Royen* | 150 |
-| 121 | ลั่นทมแดง | *Plumeria rubra L.* | 150 |
-| 122 | ลิ้นกระบือ | *Excoecaria cochinchinensis Lour. var. cochinchinensis* | 150 |
-| 123 | เล็บมือนาง | *Combretum indicum (L.) De Filipps* | 150 |
-| 124 | ว่านธรณีสาร | *Phyllanthus pulcher Wall. ex Müll. Arg.* | 150 |
-| 125 | ว่านเพชรหึง | *Grammatophyllum speciosum Blume* | 150 |
-| 126 | สบู่ดำ | *Jatropha curcas L.* | 150 |
-| 127 | ส้มโอ | *Citrus maxima (Burm.) Merr.* | 150 |
-| 128 | สัก | *Tectona grandis L. f.* | 150 |
-| 129 | สะเดา | *Azadirachta indica A. Juss.* | 150 |
-| 130 | สัตบรรณ | *Alstonia scholaris (L.) R. Br.* | 150 |
-| 131 | สาละลังกา | *Couroupita guianensis Aubl.* | 150 |
-| 132 | เสลา | *Lagerstroemia loudonii Teijsm. & Binn.* | 150 |
-| 133 | ศรีตรัง | *Jacaranda obtusifolia Bonpl.* | 150 |
-| 134 | หนามแดง | *Carissa carandas L.* | 150 |
-| 135 | หม่อน | *Morus alba L.* | 150 |
-| 136 | หว้า | *Syzygium cumini (L.) Skeels* | 150 |
-| 137 | หมากนวล | *Adonidia merrillii (Becc.) Becc.* | 150 |
-| 138 | หมากเหลือง | *Dypsis lutescens (H. Wendl.) Beentje & J. Dransf.* | 150 |
-| 139 | หางนกยูงฝรั่ง | *Delonix regia (Bojer ex Hook.) Raf.* | 150 |
-| 140 | หูกระจง | *Terminalia ivorensis A. Chev.* | 150 |
-| 141 | หูกวาง | *Terminalia catappa L.* | 150 |
-| 142 | หูปลาช่อน | *Acalypha hispida Burm. f.* | 150 |
-| 143 | เหลืองปรีดียาธร | *Roseodendron donnell-smithii (Rose) Miranda* | 150 |
-| 144 | อินทนิล | *Lagerstroemia speciosa (L.) Pers.* | 150 |
-| 145 | อินทผลัม | *Phoenix dactylifera L.* | 150 |
-| 146 | อโศกเซนคาเบรียล | *Monoon longifolium (Sonn.) B. Xue & R. M. K. Saunders* | 150 |
-| 147 | เฮลิโคเนีย | *Heliconia rostrata Ruiz. & Pav.* | 150 |
-| 148 | กุหลาบมอญ | *Rosa ×damascena Herrm.* | 149 |
-| 149 | มะขวิด | *Limonia acidissima L.* | 149 |
-| 150 | ส้มจี๊ด | *Citrus japonica Thunb.* | 149 |
-| 151 | เหรียง | *Parkia timoriana (DC.) Merr.* | 149 |
-| 152 | การะเกดหนู | *Pandanus pygmaeus Thouars* | 148 |
-| 153 | ปาล์มพัด | *Pritchardia pacifica Seem. & H. Wendl.* | 148 |
-| 154 | พุทธชาดก้านแดง | *Jasminum grandiflorum L.* | 148 |
-| 155 | ละมุดเขมร | *Pouteria campechiana (Kunth) Baehni* | 148 |
-| 156 | ประยงค์ | *Aglaia odorata Lour.* | 146 |
-| 157 | แสงจันทร์ | *Pisonia grandis R. Br.* | 146 |
-| 158 | สนประดิพัทธ์ | *Casuarina junghuhniana Miq.* | 141 |
-| 159 | คัดเค้า | *Oxyceros horridus Lour.* | 137 |
-| 160 | ตะโกนา | *Diospyros rhodocalyx Kurz* | 132 |
-| 161 | มะกอกน้ำ | *Elaeocarpus hygrophilus Kurz* | 120 |
-| 162 | ปีปทอง | *Radermachera hainanensis Merr.* | 118 |
-| 163 | มะสัง | *Feroniella lucida (Scheff.) Swingle* | 111 |
-| 164 | จิกนมยาน | *Barringtonia macrocarpa Hassk.* | 110 |
-| 165 | สารภี | *Mammea siamensis (Miq.) T. Anderson* | 109 |
-| 166 | หนวดปลาหมึกแคระ | *Schefflera arboricola (Hayata) Hayata cv. Compacta* | 108 |
-| 167 | ชมนาด | *Vallaris glabra (L.) Kuntze* | 99 |
-| 168 | พุดน้ำบุศย์ | *Gardenia carinata Wall. ex Roxb.* | 77 |
-| 169 | ตะแบก | *Lagerstroemia floribunda Jack var. cuspidata C. B. Clarke* | 76 |
-| 170 | อรพิม | *Lysiphyllum winitii (Craib) de Wit* | 69 |
-| 171 | แคนา | *Dolichandrone serrulata (Wall. ex DC.) Seem.* | 67 |
-| 172 | มะดัน | *Garcinia schomburgkiana Pierre* | 40 |
-| 173 | ชะอม | *Senegalia pennata (L.) Willd. subsp. insuavis (Lace) I. C. Nielsen* | 34 |
-| 174 | เตยหอม | *Pandanus amaryllifolius Roxb.* | 27 |
-| 175 | กระดังงาสงขลา | *Cananga odorata (Lam.) Hook. f. & Thomson var. fruticosa (Craib) J. Sinclair* | 23 |
-| 176 | พิลังกาสา | *Ardisia ionantha K. Larsen & C. M. Hu* | 6 |
+| 1 | หม่อน | *Morus alba L.* | 21,633 |
+| 2 | กระถิน | *Leucaena leucocephala (Lam.) de Wit* | 18,971 |
+| 3 | มะพร้าว | *Cocos nucifera L.* | 18,928 |
+| 4 | อากาเว่ | *Agave americana L.* | 16,789 |
+| 5 | ยี่โถ | *Nerium oleander L.* | 16,562 |
+| 6 | มะละกอ | *Carica papaya L.* | 15,171 |
+| 7 | ทองอุไร | *Tecoma stans (L.) Juss. ex Kunth* | 12,751 |
+| 8 | ทับทิม | *Punica granatum L. var. granatum* | 11,027 |
+| 9 | ฝรั่ง | *Psidium guajava L.* | 10,546 |
+| 10 | พยับหมอก | *Plumbago auriculata Lam.* | 9,974 |
+| 11 | หูกวาง | *Terminalia catappa L.* | 9,673 |
+| 12 | แคแสด | *Spathodea campanulata P. Beauv.* | 8,556 |
+| 13 | มะม่วง | *Mangifera indica L.* | 8,303 |
+| 14 | ยอ | *Morinda citrifolia L.* | 8,249 |
+| 15 | สะเดา | *Azadirachta indica A. Juss.* | 7,727 |
+| 16 | พุทธรักษา | *Canna indica L.* | 7,631 |
+| 17 | หางนกยูงฝรั่ง | *Delonix regia (Bojer ex Hook.) Raf.* | 7,470 |
+| 18 | ไทรทอง | *Ficus microcarpa L. f.* | 7,029 |
+| 19 | นีออน | *Leucophyllum frutescens (Berland.) I. M. Johnst.* | 6,830 |
+| 20 | รัก | *Calotropis gigantea (L.) W. T. Aiton* | 6,390 |
+| 21 | แก้ว | *Murraya paniculata (L.) Jack* | 6,120 |
+| 22 | บาหยา | *Asystasia gangetica (L.) T. Anderson subsp. gangetica* | 5,815 |
+| 23 | เทียนหยด | *Duranta erecta L.* | 5,345 |
+| 24 | ตะขบฝรั่ง | *Muntingia calabura L.* | 5,167 |
+| 25 | ธรรมรักษา | *Heliconia psittacorum L. f.* | 4,957 |
+| 26 | การะเกด | *Pandanus tectorius Parkinson ex Du Roi* | 4,878 |
+| 27 | เฮลิโคเนีย | *Heliconia rostrata Ruiz. & Pav.* | 4,567 |
+| 28 | บานบุรี | *Cascabela thevetia (L.) Lippold* | 4,562 |
+| 29 | รำเพย | *Cascabela thevetia (L.) Lippold* | 4,562 |
+| 30 | โพศรีมหาโพธิ | *Ficus religiosa L.* | 4,288 |
+| 31 | ราชพฤกษ์ | *Cassia fistula L.* | 4,277 |
+| 32 | ลั่นทมแดง | *Plumeria rubra L.* | 4,089 |
+| 33 | มะขามเทศ | *Pithecellobium dulce (Roxb.) Benth.* | 4,042 |
+| 34 | ลำไย | *Dimocarpus longan Lour.* | 3,619 |
+| 35 | มะรุม | *Moringa oleifera Lam.* | 3,530 |
+| 36 | ขนุน | *Artocarpus heterophyllus Lam.* | 3,251 |
+| 37 | มะขาม | *Tamarindus indica L.* | 3,082 |
+| 38 | พุดซ้อน | *Gardenia jasminoides J. Ellis* | 2,843 |
+| 39 | พุดศุภโชค (พุดซ้อน) | *Gardenia jasminoides J. Ellis* | 2,843 |
+| 40 | เล็บมือนาง | *Combretum indicum (L.) De Filipps* | 2,825 |
+| 41 | โกสน | *Codiaeum variegatum (L.) Rumph. ex A. Juss.* | 2,722 |
+| 42 | มะเฟือง | *Averrhoa carambola L.* | 2,671 |
+| 43 | สัก | *Tectona grandis L. f.* | 2,526 |
+| 44 | ช้องนาง | *Thunbergia erecta (Benth.) T. Anderson* | 2,516 |
+| 45 | กระถินณรงค์ | *Acacia auriculiformis A. Cunn. ex Benth.* | 2,510 |
+| 46 | มะม่วงหิมพานต์ | *Anacardium occidentale L.* | 2,487 |
+| 47 | แคฝรั่ง | *Gliricidia sepium (Jacq.) Walp.* | 2,481 |
+| 48 | หว้า | *Syzygium cumini (L.) Skeels* | 2,446 |
+| 49 | กล้วย | *Musa acuminata Colla* | 2,324 |
+| 50 | คนทีเขมา | *Vitex negundo L.* | 2,253 |
+| 51 | อินทผลัม | *Phoenix dactylifera L.* | 2,223 |
+| 52 | สาละลังกา | *Couroupita guianensis Aubl.* | 2,168 |
+| 53 | ต้อยติ่ง | *Ruellia tuberosa L.* | 2,015 |
+| 54 | กระทิง | *Calophyllum inophyllum L.* | 2,008 |
+| 55 | ชบา | *Hibiscus rosa-sinensis L.* | 1,879 |
+| 56 | อินทนิล | *Lagerstroemia speciosa (L.) Pers.* | 1,808 |
+| 57 | พลับพลึงตีนเป็ด | *Hymenocallis littoralis (Jacq.) Salisb.* | 1,792 |
+| 58 | ทองกวาว | *Butea monosperma (Lam.) Taub.* | 1,786 |
+| 59 | จามจุรี | *Albizia saman (Jacq.) Merr.* | 1,751 |
+| 60 | น้อยหน่า | *Annona squamosa L.* | 1,714 |
+| 61 | ชมพูพันธุ์ทิพย์ | *Tabebuia rosea (Bertol.) Bertero ex A. DC.* | 1,705 |
+| 62 | พุดจีบ | *Tabernaemontana divaricata (L.) R. Br.ex Roem. & Schult.* | 1,565 |
+| 63 | ไทรย้อยใบแหลม | *Ficus benjamina L.* | 1,466 |
+| 64 | หมากนวล | *Adonidia merrillii (Becc.) Becc.* | 1,421 |
+| 65 | ประเดหวี | *Dracaena fragrans (L.) Ker Gawl.* | 1,408 |
+| 66 | ชาฮกเกี้ยน | *Ehretia microphylla Lam.* | 1,400 |
+| 67 | ชมพู่ม่าเหมี่ยว | *Syzygium malaccense (L.) Merr. & L. M. Perry* | 1,299 |
+| 68 | ยางอินเดีย | *Ficus elastica Roxb. ex Hornem* | 1,295 |
+| 69 | ตาล | *Borassus flabellifer L.* | 1,250 |
+| 70 | หูปลาช่อน | *Acalypha hispida Burm. f.* | 1,246 |
+| 71 | อโศกเซนคาเบรียล | *Monoon longifolium (Sonn.) B. Xue & R. M. K. Saunders* | 1,246 |
+| 72 | ละมุด | *Manilkara zapota (L.) P. Royen* | 1,162 |
+| 73 | สัตบรรณ | *Alstonia scholaris (L.) R. Br.* | 1,156 |
+| 74 | นนทรี | *Peltophorum pterocarpum (DC.) Backer ex K. Heyne* | 1,148 |
+| 75 | จิกสวน | *Barringtonia racemosa (L.) Spreng.* | 1,140 |
+| 76 | ปาล์มสามทาง | *Dypsis lutescens (H. Wendl.) Beentje & J. Dransf.* | 1,081 |
+| 77 | หมากเหลือง | *Dypsis lutescens (H. Wendl.) Beentje & J. Dransf.* | 1,081 |
+| 78 | สบู่ดำ | *Jatropha curcas L.* | 1,022 |
+| 79 | มะฮอกกานีใบใหญ่ | *Swietenia macrophylla King* | 965 |
+| 80 | ตะลิงปลิง | *Averrhoa bilimbi L.* | 958 |
+| 81 | ขี้เหล็ก | *Senna siamea (Lam.) H. S. Irwin & Barneby* | 933 |
+| 82 | เชอร์รี่ไทย | *Malpighia glabra L.* | 871 |
+| 83 | บุหงาส่าหรี | *Citharexylum spinosum L.* | 812 |
+| 84 | เต่าร้าง | *Caryota mitis Lour.* | 753 |
+| 85 | คนทีสอ | *Vitex trifolia L. subsp. trifolia* | 729 |
+| 86 | ชงโค | *Bauhinia purpurea L.* | 721 |
+| 87 | พิกุล | *Mimusops elengi L.* | 714 |
+| 88 | แก้วเจ้าจอม | *Guaiacum officinale L.* | 709 |
+| 89 | แปรงล้างขวด | *Callistemon lanceolatus (Sm.) Sweet* | 706 |
+| 90 | ปาล์มน้ำมัน | *Elaeis guineensis Jacq.* | 683 |
+| 91 | ยูคาลิปตัส | *Eucalyptus camaldulensis Dehnh.* | 614 |
+| 92 | ปรงญี่ปุ่น | *Cycas revoluta Thunb.* | 611 |
+| 93 | คริสติน่า | *Syzygium australe (J.C.Wendl. ex Link) B.Hyland* | 602 |
+| 94 | ชมพู่ | *Syzygium samarangense (Blume) Merr. & L.M.Perry* | 586 |
+| 95 | ตีนเป็ดน้ำ | *Cerbera odollam Gaertn.* | 552 |
+| 96 | มะตาด | *Dillenia indica L.* | 519 |
+| 97 | ผักหวานบ้าน | *Breynia androgyna (L.) Chakrab. & N.P. Balakr.* | 494 |
+| 98 | มะยม | *Phyllanthus acidus (L.) Skeels* | 474 |
+| 99 | มะตูม | *Aegle marmelos (L.) Corrêa ex Roxb.* | 468 |
+| 100 | กรรณิกา | *Nyctanthes arbor-tristis L.* | 466 |
+| 101 | กล้วยพัด | *Ravenala madagascariensis Sonn.* | 465 |
+| 102 | ทองหลางลาย | *Erythrina variegata L.* | 454 |
+| 103 | ตะขบป่า | *Flacourtia indica (Burm. f.) Merr.* | 442 |
+| 104 | พวงทองต้น | *Galphimia gracilis Bartl.* | 434 |
+| 105 | มะลิลา | *Jasminum sambac (L.) Aiton* | 427 |
+| 106 | จั๋งญี่ปุ่น | *Rhapis excelsa (Thunb.) Henry* | 396 |
+| 107 | ปีบ | *Millingtonia hortensis L. f.* | 389 |
+| 108 | เหลืองปรีดียาธร | *Roseodendron donnell-smithii (Rose) Miranda* | 354 |
+| 109 | ส้มโอ | *Citrus maxima (Burm.) Merr.* | 331 |
+| 110 | เฟื่องฟ้า | *Bougainvillea spectabilis Willd.* | 323 |
+| 111 | มิกกี้เมาส์ | *Ochna thomasiana Engl. & Gilg* | 315 |
+| 112 | ประดู่บ้าน | *Pterocarpus indicus Willd.* | 305 |
+| 113 | กะตังใบ | *Leea indica (Burm. f.) Merr.* | 288 |
+| 114 | ปาล์มหางกระรอก | *Wodyetia bifurcata A. K. Irvine* | 277 |
+| 115 | ฝ้าย | *Gossypium herbaceum L.* | 270 |
+| 116 | เข็ม | *Ixora coccinea L.* | 264 |
+| 117 | เพกา | *Oroxylum indicum (L.) Benth. ex Kurz* | 256 |
+| 118 | แคบ้าน | *Sesbania grandiflora (L.) Poir.* | 244 |
+| 119 | โพขี้นก | *Ficus rumphii Blume* | 239 |
+| 120 | ตาลฟ้า | *Bismarckia nobilis Hildebr. & H. Wendl.* | 235 |
+| 121 | ใบเงิน ใบทอง | *Graptophyllum pictum (L.) Griff.* | 219 |
+| 122 | พุดพิชญา | *Wrightia antidysenterica (L.) R. Br.* | 213 |
+| 123 | ปาล์มจีบ | *Licuala grandis H. Wendl.* | 212 |
+| 124 | สนมังกร | *Juniperus chinensis L.* | 205 |
+| 125 | พุดสามสี | *Brunfelsia uniflora (Pohl) D. Don* | 199 |
+| 126 | กร่าง | *Ficus altissima Blume* | 193 |
+| 127 | หนามแดง | *Carissa carandas L.* | 185 |
+| 128 | ปาล์มสิบสองปันนา | *Phoenix roebelenii O’Brien* | 174 |
+| 129 | ปาล์มสิบสองปันนา | *phoenix roebelenii O'Brien* | 174 |
+| 130 | ข่อย | *Streblus asper Lour.* | 168 |
+| 131 | ว่านเพชรหึง | *Grammatophyllum speciosum Blume* | 153 |
+| 132 | บุนนาค | *Mesua ferrea L.* | 148 |
+| 133 | กันเกรา | *Fagraea fragrans Roxb.* | 145 |
+| 134 | โมกบ้าน | *Wrightia religiosa (Teijsm. & Binn.) Benth. ex Kurz* | 143 |
+| 135 | มะกรูด | *Citrus hystrix DC.* | 139 |
+| 136 | มะนาว | *Citrus aurantiifolia (Christm.) Swingle* | 139 |
+| 137 | มะขวิด | *Limonia acidissima L.* | 136 |
+| 138 | ละมุดเขมร | *Pouteria campechiana (Kunth) Baehni* | 129 |
+| 139 | ไผ่ฟิลิปปินส์ | *Dracaena surculosa Lindl.* | 124 |
+| 140 | ลิ้นกระบือ | *Excoecaria cochinchinensis Lour. var. cochinchinensis* | 112 |
+| 141 | ปาล์มพัด | *Pritchardia pacifica Seem. & H. Wendl.* | 111 |
+| 142 | ปาล์มชวา | *Saribus rotundifolius (Lam.) Blume* | 107 |
+| 143 | ไผ่ | *Bambusa vulgaris Schrad.* | 106 |
+| 144 | ไผ่น้ำเต้า | *Bambusa vulgaris Schrad.* | 106 |
+| 145 | จันทน์ผา | *Dracaena cochinchinensis (Lour.) S. C. Chen* | 104 |
+| 146 | โกงกางเขา | *Fagraea ceilanica Thunb.* | 97 |
+| 147 | กระท้อน | *Sandoricum koetjape (Burm. f.) Merr.* | 91 |
+| 148 | จำปี | *Magnolia ×alba (DC.) Figlar* | 91 |
+| 149 | ประยงค์ | *Aglaia odorata Lour.* | 90 |
+| 150 | กระดังงาจีน | *Artabotrys hexapetalus (L. f.) Bhandari* | 84 |
+| 151 | พุทธชาดก้านแดง | *Jasminum grandiflorum L.* | 75 |
+| 152 | ส้มจี๊ด | *Citrus japonica Thunb.* | 72 |
+| 153 | มันปู | *Glochidion littorale Blume* | 47 |
+| 154 | สนประดิพัทธ์ | *Casuarina junghuhniana Miq.* | 44 |
+| 155 | พะยอม | *Shorea roxburghii G.Don* | 43 |
+| 156 | กุหลาบมอญ | *Rosa ×damascena Herrm.* | 38 |
+| 157 | ตะเคียนทอง | *Hopea odorata Roxb.* | 35 |
+| 158 | ว่านธรณีสาร | *Phyllanthus pulcher Wall. ex Müll. Arg.* | 33 |
+| 159 | หมากเขียว | *Ptychosperma macarthurii (H.Wendl. ex T.Moore) H.Wendl. ex Dykes* | 32 |
+| 160 | หนวดปลาหมึกแคระ | *Schefflera arboricola (Hayata) Hayata cv. Compacta* | 28 |
+| 161 | พุดน้ำบุศย์ | *Gardenia carinata Wall. ex Roxb.* | 22 |
+| 162 | แคนา | *Dolichandrone serrulata (Wall. ex DC.) Seem.* | 19 |
+| 163 | ปีปทอง | *Radermachera hainanensis Merr.* | 15 |
+| 164 | การะเกดหนู | *Pandanus pygmaeus Thouars* | 11 |
+| 165 | ชมนาด | *Vallaris glabra (L.) Kuntze* | 11 |
+| 166 | ศรีตรัง | *Jacaranda obtusifolia Bonpl.* | 10 |
+| 167 | สารภี | *Mammea siamensis (Miq.) T. Anderson* | 10 |
+| 168 | กระดังงาสงขลา | *Cananga odorata (Lam.) Hook. f. & Thomson var. fruticosa (Craib) J. Sinclair* | 9 |
+| 169 | มะยงชิด | *Bouea oppositifolia (Roxb.) Meisn.* | 9 |
+| 170 | แสงจันทร์ | *Pisonia grandis R. Br.* | 9 |
+| 171 | หูกระจง | *Terminalia ivorensis A. Chev.* | 8 |
+| 172 | อรพิม | *Lysiphyllum winitii (Craib) de Wit* | 8 |
+| 173 | เสลา | *Lagerstroemia loudonii Teijsm. & Binn.* | 7 |
+| 174 | กระพี้จั่น | *Millettia brandisiana Kurz* | 6 |
+| 175 | ชะมวง | *Garcinia cowa Roxb. ex Choisy* | 6 |
+| 176 | คัดเค้า | *Oxyceros horridus Lour.* | 5 |
+| 177 | มะกอกน้ำ | *Elaeocarpus hygrophilus Kurz* | 4 |
+| 178 | มะดัน | *Garcinia schomburgkiana Pierre* | 4 |
+| 179 | ราชาวดี | *Buddleja paniculata Wall.* | 4 |
+| 180 | จิกนมยาน | *Barringtonia macrocarpa Hassk.* | 3 |
+| 181 | ตะโกนา | *Diospyros rhodocalyx Kurz* | 3 |
+| 182 | เหรียง | *Parkia timoriana (DC.) Merr.* | 3 |
+| 183 | กระทุ่มนา | *Mitragyna diversifolia (Wall. ex G. Don) Havil.* | 2 |
+| 184 | ชำมะเลียง | *Lepisanthes fruticosa (Roxb.) Leenh.* | 2 |
+| 185 | พะยูง | *Dalbergia cochinchinensis Pierre* | 2 |
+| 186 | มะสัง | *Feroniella lucida (Scheff.) Swingle* | 2 |
+| 187 | ยางนา | *Dipterocarpus alatus Roxb. ex G. Don* | 2 |
+| 188 | ชะอม | *Senegalia pennata (L.) Willd. subsp. insuavis (Lace) I. C. Nielsen* | 1 |
+| 189 | ตะแบก | *Lagerstroemia floribunda Jack var. cuspidata C. B. Clarke* | 0 |
+| 190 | พิลังกาสา | *Ardisia ionantha K. Larsen & C. M. Hu* | 0 |
+| 191 | เตยหอม | *Pandanus amaryllifolius Roxb.* | 0 |
